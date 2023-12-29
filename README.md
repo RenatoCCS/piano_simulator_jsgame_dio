@@ -22,7 +22,7 @@ aqui você encontrará um divertido simulador de piano. Este projeto não oferec
   
 <h2>📁  Como Tocar </h2>
 
-1 - Você pode acessar o jogo clicando [Aqui](https://pianosimulatorrenatoccs.netlify.app)
+1 - Você pode acessar o simulador clicando [Aqui](https://pianosimulatorrenatoccs.netlify.app)
  <br>  Ou  <br>
 1 - Clonar este repositório para sua máquina local. <br>
 2 - Abra o arquivo `index.html` em seu navegador web. <br>
