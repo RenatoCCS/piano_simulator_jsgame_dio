@@ -1,10 +1,10 @@
-<H1> Piano Simulator JavaScript  </H1>
+<H1> Piano Virtual Simulator JavaScript  </H1>
 
 <p align="center">
-  <img src="https://github.com/RenatoCCS/detona_ralph_jsgame_dio/blob/main/src/images/ralph.png" alt="JSGame Detona Ralph Logo">
+  <img src="https://github.com/RenatoCCS/piano_simulator_jsgame_dio/blob/main/src/images/piano1.JPG" alt="Piano Virtual Simulator JavaScript">
 </p>
 
-Bem-vindo ao **Piano Simulator,** desenvolvi esse projeto acompanhando as aulas do bootcamp DIO, 
+Bem-vindo ao **Piano Virtual Simulator,** desenvolvi esse projeto acompanhando as aulas do bootcamp DIO, 
 aqui você encontrará um divertido simulador de piano. Este projeto não oferece apenas entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript.
 
 
@@ -22,7 +22,7 @@ aqui você encontrará um divertido simulador de piano. Este projeto não oferec
   
 <h2>📁  Como Tocar </h2>
 
-1 - Você pode acessar o jogo clicando [Aqui](https://detonaralphgamerenatoccs.netlify.app)
+1 - Você pode acessar o jogo clicando [Aqui](https://pianosimulatorrenatoccs.netlify.app)
  <br>  Ou  <br>
 1 - Clonar este repositório para sua máquina local. <br>
 2 - Abra o arquivo `index.html` em seu navegador web. <br>
@@ -41,4 +41,4 @@ Este simulador foi desenvolvido como parte de um projeto educacional da [Digital
 
 ---
 
-Divirta-se tocando o **Piano Simulator JavaScript** enquanto explora as técnicas modernas de desenvolvimento de jogos em JavaScript. Lembre-se de conferir o repositório original [aqui](https://github.com/digitalinnovationone/jsgame-detona-ralph) e deixar uma ⭐️ se você gostou do projeto!
+Divirta-se tocando o **Piano Simulator JavaScript** enquanto explora as técnicas modernas de desenvolvimento de jogos em JavaScript. Lembre-se de conferir o repositório original [aqui](https://github.com/felipeAguiarCode/js-music-keyboard-virtual/tree/main) e deixar uma ⭐️ se você gostou do projeto!
